@@ -17,6 +17,7 @@ Rust (Learning) — exploring the language; not proficient yet
 ML Mathematics — learning from NPTEL’s Essential Mathematics for Machine Learning – IIT Roorkee
 
 🧠 Current Major Projects
+
 🔹 CerebroShell
 
 A GPU-accelerated terminal with an AI layer built directly into the workflow.

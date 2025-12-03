@@ -96,7 +96,7 @@ Model implementation basics
 
 Become highly skilled in systems engineering (compilers, kernels, HPC)
 
-Build 5 deep technical portfolio projects
+Build deep technical portfolio projects
 
 Secure a systems/ML engineering internship
 
